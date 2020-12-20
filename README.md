@@ -1,1 +1,2 @@
-# collision-detection-Divij
+# collisionAlgorithm
+Algorithm to detect collision between two objects
